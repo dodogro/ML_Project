@@ -1,0 +1,21 @@
+Data Import
+Split categorical/ continuos variables
+Work on categorical data
+Work on numerical data
+	Check for outliers (before or after standardizing)
+	Standardize/Normalize
+Split train/test sets
+16-12-2022
+Models
+	Create the hyperp_search() funciton
+	1. KNeighbots Classifier
+	2. Decision Tree Classifier
+	3. Naive Bayes Clasifier
+17-12-2022	
+	4. Logistic Regression Classifier
+	5. Support Vector Machine
+	6. Multi-layer Perceptron Classifier
+18-12-2022	
+	7. ? Esemble Learning 
+Save and export the model
+20-12-2022 -> make the prediction
